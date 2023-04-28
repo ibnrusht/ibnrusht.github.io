@@ -226,7 +226,7 @@ input, select, textarea {
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #348cb2 url("images/bg.jpg") bottom left;
+		background: #213770 url("images/bg.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -691,8 +691,8 @@ input, select, textarea {
 				}
 
 					#header nav a:hover:before {
-						/*background-color: rgba(255, 255, 255, 0.175);*/
-						background-color: rgba(0, 0, 255, 0.2);
+						background-color: rgba(255, 255, 255, 0.175);
+						/*background-color: rgba(0, 0, 102, 0.175);*/
 						color: #fff;
 					}
 
@@ -702,8 +702,8 @@ input, select, textarea {
 				}
 
 					#header nav a:active:before {
-						/*background-color: rgba(255, 255, 255, 0.35);*/
-						background-color: rgba(0, 0, 255, 0.2);
+						background-color: rgba(255, 255, 255, 0.35);
+						/*background-color: rgba(0, 0, 102, 0.35);*/
 						color: #fff;
 					}
 
